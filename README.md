@@ -84,7 +84,8 @@ Aplikasi ini sudah 95% berfungsi dengan baik.
 
 Well sisanya hanya report dan proses2 lain-lainnya yang mungkin masih bisa ditambahkan sesuai permintaan.
 Karena report itu tergantung dari inputnya.
-
+Lihat ini ya
+https://youtu.be/4t1s0OVbENM
 
 <!---
 Satudua4751/Satudua4751 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
