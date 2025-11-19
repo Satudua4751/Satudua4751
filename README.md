@@ -83,8 +83,6 @@ Jika ingin berkolaborasi atau butuh bantuan development, silakan hubungi saya:
 
 ### ✨ Terima kasih sudah mengunjungi profil saya!
 
-Lihat ini ya => https://youtu.be/4t1s0OVbENM
-
 <!---
 Satudua4751/Satudua4751 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
