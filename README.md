@@ -12,67 +12,68 @@ Aplikasi ini sudah 95% berfungsi dengan baik.
   * Material
   * Jasa
 <img width="1619" height="749" alt="{12F5126B-A145-48BD-9E80-A19AB8413257}" src="https://github.com/user-attachments/assets/c8ccf9f6-5887-470e-b4bf-21ed907ac336" />
-
+<img width="1622" height="704" alt="image" src="https://github.com/user-attachments/assets/ca933ebe-4f05-4bbd-9a5c-8432a166873f" />
 
 2. Master Pemasok (Standar + NPWP)
 <img width="1623" height="747" alt="image" src="https://github.com/user-attachments/assets/e77448e3-b68b-4991-afb1-e1876bb38517" />
 
+3. Master Pelanggan (Nopol + NPWP ... dst )
+<img width="1621" height="750" alt="image" src="https://github.com/user-attachments/assets/d0f37857-548c-4b03-9b27-558239bf21a4" />
 
-4. Master Pelanggan (Nopol + NPWP ... dst )
-<img width="1615" height="747" alt="image" src="https://github.com/user-attachments/assets/c972a804-c095-4636-b679-0040dfd07b10" />
 
-5. Pembelian (Beli + Retur Beli)
-<img width="1622" height="751" alt="image" src="https://github.com/user-attachments/assets/4f1f3168-3046-4689-938d-85d49de30576" />
+4. Pembelian (Beli + Retur Beli)
+<img width="1623" height="751" alt="image" src="https://github.com/user-attachments/assets/2d3508ae-c15c-4bd3-948d-98463e6bb364" />
+<img width="1617" height="747" alt="image" src="https://github.com/user-attachments/assets/425f83d5-3767-4538-b963-4a0c094677cc" />
 
   * Report (
-<img width="1151" height="594" alt="image" src="https://github.com/user-attachments/assets/50b2628b-9c6d-425d-b4b3-c756cf1714a1" />
-<img width="1445" height="894" alt="image" src="https://github.com/user-attachments/assets/a12034b5-af04-4097-af6b-3896dfcfe67f" />
-
-
+<img width="1149" height="607" alt="image" src="https://github.com/user-attachments/assets/2b481c19-592c-4397-93c9-d24dbbdf23c9" />
+<img width="1452" height="894" alt="image" src="https://github.com/user-attachments/assets/eb1b7169-a443-463a-8172-6dc3994eecb2" />
     
-6. Penjualan (Jual + Retur Jual)
+5. Penjualan (Jual + Retur Jual)
   * Penawaran
-<img width="1623" height="833" alt="image" src="https://github.com/user-attachments/assets/31375ff5-43ce-417e-8eab-ef2116a5fbac" />
-<img width="1586" height="720" alt="image" src="https://github.com/user-attachments/assets/dd9db347-a51f-4a40-be0a-e6cafd53aa56" />
+<img width="1618" height="829" alt="{198DFCF9-117E-4956-99A3-1091EC5F35C9}" src="https://github.com/user-attachments/assets/09237802-dd36-4918-be8e-4e4e4a75b4b5" />
+<img width="1622" height="809" alt="image" src="https://github.com/user-attachments/assets/7b42ae46-dc72-40d2-a3b1-c49909bfbab9" />
 
   * Order Penjualan
   * Invoice Penjualan
-<img width="1111" height="840" alt="image" src="https://github.com/user-attachments/assets/3eb9421f-1110-4a5e-a2a1-1309ccf16ff7" />
+<img width="1151" height="924" alt="image" src="https://github.com/user-attachments/assets/ba13d2c1-a73f-473e-974e-e602371477b8" />
 
-
-7. Piutang
+6. Piutang
   * Global Piutang Langganan
-<img width="1620" height="826" alt="image" src="https://github.com/user-attachments/assets/37a0f528-5201-4d21-9536-69f72236cdd0" />
+<img width="1619" height="827" alt="image" src="https://github.com/user-attachments/assets/103df755-e1e3-4882-8c34-96c3c932ee27" />
     
   * Mutasi Piutang Langganan
-<img width="1162" height="389" alt="image" src="https://github.com/user-attachments/assets/eebaae81-270d-44b8-a31b-7e2216edc8fc" />
+<img width="1152" height="381" alt="image" src="https://github.com/user-attachments/assets/b5f202b4-2ec2-4c6a-b749-a44817b2b823" />
 
-8. Hutang
+7. Hutang
   * Global Hutang
-<img width="1617" height="824" alt="image" src="https://github.com/user-attachments/assets/50bce102-f19c-4117-aead-0045c23fa23e" />
+<img width="1614" height="825" alt="image" src="https://github.com/user-attachments/assets/68913aa5-54ec-4f82-a54c-63add5d74d5a" />
 
   * Mutasi Hutang
-<img width="1149" height="395" alt="image" src="https://github.com/user-attachments/assets/c4a6004f-82a8-4488-baeb-b82f37caa628" />
+<img width="1158" height="462" alt="image" src="https://github.com/user-attachments/assets/0fbe80a2-44b7-4bb3-866e-6c0b44135e43" />
 
-
-9. Komparasi nilai penjualan vs piutang
+8. Komparasi nilai penjualan vs piutang
 <img width="1620" height="826" alt="image" src="https://github.com/user-attachments/assets/37a0f528-5201-4d21-9536-69f72236cdd0" />
 <img width="1154" height="404" alt="image" src="https://github.com/user-attachments/assets/1f8a2e8f-16a9-42d6-b765-4e15b073b581" />
 
-   
+9. Komparasi nilai Penjualan vs Piutang
+<img width="1617" height="376" alt="image" src="https://github.com/user-attachments/assets/dddcfca5-1baa-48a4-a4f8-fe568b95206a" />
+
 10. Komparasi nilai pembelian vs hutang
+<img width="1616" height="443" alt="{48E03B0A-2C26-43AD-922A-A4E7089A9CB8}" src="https://github.com/user-attachments/assets/cd10f695-79f6-4647-bccb-6c6339cdc523" />
 
 11. Persediaan dengan metode fifo
-<img width="1148" height="652" alt="image" src="https://github.com/user-attachments/assets/fd2e7e7c-593b-402e-8ce3-57ad72a2d808" />
+<img width="1149" height="425" alt="{D99106ED-1B5D-462B-B1F1-8430ED81B145}" src="https://github.com/user-attachments/assets/af4f5c84-a876-4b1c-b7c7-82e5a974968b" />
 
 12. Akunting
-<img width="1617" height="821" alt="image" src="https://github.com/user-attachments/assets/02eb9bed-792d-440f-b0d7-becaea3241a3" />
-<img width="1153" height="349" alt="image" src="https://github.com/user-attachments/assets/b845b12b-bb5c-4fc3-9238-e2575e3459bb" />
-<img width="1144" height="410" alt="image" src="https://github.com/user-attachments/assets/c44a06fc-9888-40ba-84fe-ab1be8fd8441" />
-<img width="1578" height="800" alt="image" src="https://github.com/user-attachments/assets/6db23413-8cf7-4fd5-9381-db7f04626009" />
-<img width="686" height="812" alt="image" src="https://github.com/user-attachments/assets/e00c2cfb-76e6-4c14-8ff3-f0e5f9082d02" />
+<img width="1622" height="830" alt="{45CC54C1-4AA2-483D-B648-8F4358E23FA4}" src="https://github.com/user-attachments/assets/f0132ba9-010a-41c8-98b6-4f670328c945" />
+<img width="1151" height="409" alt="image" src="https://github.com/user-attachments/assets/9aa9af42-c329-4be2-9852-bea44a7d2742" />
+<img width="1153" height="350" alt="image" src="https://github.com/user-attachments/assets/317d40aa-a5c5-4bc6-8a7a-974cfd649d05" />
+
+<img width="554" height="735" alt="image" src="https://github.com/user-attachments/assets/1c21d070-5781-448a-adaa-395a83573711" />
+<img width="734" height="593" alt="{C4111276-825F-4FB3-B80E-7FAF907B9B1C}" src="https://github.com/user-attachments/assets/9572e06d-c83e-4177-8ce9-dca2561ccee9" />
     
-13. Report-report
+15. Report-report
   * Penjualan
   * Pembelian
   * Mutasi Barang 
@@ -86,8 +87,8 @@ Aplikasi ini sudah 95% berfungsi dengan baik.
 
 Well sisanya hanya report dan proses2 lain-lainnya yang mungkin masih bisa ditambahkan sesuai permintaan.
 Karena report itu tergantung dari inputnya.
-Lihat ini ya
-https://youtu.be/4t1s0OVbENM
+
+Lihat ini ya => https://youtu.be/4t1s0OVbENM
 
 <!---
 Satudua4751/Satudua4751 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
