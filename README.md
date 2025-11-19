@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Fadlani desuka
 - 👀 I’m interested in web programming ...
+- 🌱 I’m using native php ...
 - 🌱 I’m currently learning laravel ...
-- thats all, for now
+- that's all, for now .. 😄
 
 # JualinAja
 Aplikasi Web (Back office Bengkel) Lengkap dengan sistem Akuntasi
-Menerapkan sistem Sidebar Multitabs agar lebih mudah bernavigasi me-minimalisasi-kan buka tutup antar form
+Menerapkan sistem Sidebar Multitabs agar lebih mudah bernavigasi me-minimalisasi-kan buka tutup antar halaman web
 Aplikasi ini sudah 95% berfungsi dengan baik.
 1. Master Barang + Jasa dengan pengelompokkan / grup 
   * Spare part
