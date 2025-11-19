@@ -11,10 +11,12 @@ Aplikasi ini sudah 95% berfungsi dengan baik.
   * Spare part
   * Material
   * Jasa
-<img width="1606" height="728" alt="image" src="https://github.com/user-attachments/assets/66a9fd2e-f6d7-4ec0-bf9c-31736522d221" />
+<img width="1619" height="749" alt="{12F5126B-A145-48BD-9E80-A19AB8413257}" src="https://github.com/user-attachments/assets/c8ccf9f6-5887-470e-b4bf-21ed907ac336" />
+
 
 2. Master Pemasok (Standar + NPWP)
-<img width="1624" height="751" alt="image" src="https://github.com/user-attachments/assets/7afa0153-057d-4bda-81af-2a2e69d63e7e" />
+<img width="1623" height="747" alt="image" src="https://github.com/user-attachments/assets/e77448e3-b68b-4991-afb1-e1876bb38517" />
+
 
 4. Master Pelanggan (Nopol + NPWP ... dst )
 <img width="1615" height="747" alt="image" src="https://github.com/user-attachments/assets/c972a804-c095-4636-b679-0040dfd07b10" />
