@@ -57,19 +57,15 @@ Aplikasi ini sudah 95% berfungsi dengan baik.
 <img width="1158" height="462" alt="image" src="https://github.com/user-attachments/assets/0fbe80a2-44b7-4bb3-866e-6c0b44135e43" />
 
 8. Komparasi nilai penjualan vs piutang
-<img width="1620" height="826" alt="image" src="https://github.com/user-attachments/assets/37a0f528-5201-4d21-9536-69f72236cdd0" />
-<img width="1154" height="404" alt="image" src="https://github.com/user-attachments/assets/1f8a2e8f-16a9-42d6-b765-4e15b073b581" />
-
-9. Komparasi nilai Penjualan vs Piutang
 <img width="1617" height="376" alt="image" src="https://github.com/user-attachments/assets/dddcfca5-1baa-48a4-a4f8-fe568b95206a" />
 
-10. Komparasi nilai pembelian vs hutang
+9. Komparasi nilai pembelian vs hutang
 <img width="1616" height="443" alt="{48E03B0A-2C26-43AD-922A-A4E7089A9CB8}" src="https://github.com/user-attachments/assets/cd10f695-79f6-4647-bccb-6c6339cdc523" />
 
-11. Persediaan dengan metode fifo
+10. Persediaan dengan metode fifo
 <img width="1149" height="425" alt="{D99106ED-1B5D-462B-B1F1-8430ED81B145}" src="https://github.com/user-attachments/assets/af4f5c84-a876-4b1c-b7c7-82e5a974968b" />
 
-12. Akunting
+11. Akunting
 <img width="1622" height="830" alt="{45CC54C1-4AA2-483D-B648-8F4358E23FA4}" src="https://github.com/user-attachments/assets/f0132ba9-010a-41c8-98b6-4f670328c945" />
 <img width="1151" height="409" alt="image" src="https://github.com/user-attachments/assets/9aa9af42-c329-4be2-9852-bea44a7d2742" />
 <img width="1153" height="350" alt="image" src="https://github.com/user-attachments/assets/317d40aa-a5c5-4bc6-8a7a-974cfd649d05" />
@@ -77,7 +73,7 @@ Aplikasi ini sudah 95% berfungsi dengan baik.
 <img width="554" height="735" alt="image" src="https://github.com/user-attachments/assets/1c21d070-5781-448a-adaa-395a83573711" />
 <img width="734" height="593" alt="{C4111276-825F-4FB3-B80E-7FAF907B9B1C}" src="https://github.com/user-attachments/assets/9572e06d-c83e-4177-8ce9-dca2561ccee9" />
     
-15. Report-report
+12. Report-report
   * Penjualan
   * Pembelian
   * Mutasi Barang 
