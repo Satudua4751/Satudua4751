@@ -8,7 +8,7 @@
 - that's all, for now .. 😄
 
 # JualinAja
-Aplikasi Web (Back office Bengkel) Lengkap dengan sistem Akuntasi
+Aplikasi Web (Back office Bengkel) dan bisa dipakai untuk semua usaha. Lengkap dengan sistem Akuntasi.
 Menerapkan sistem Sidebar Multitabs agar lebih mudah bernavigasi me-minimalisasi-kan buka tutup antar halaman web
 Aplikasi ini sudah 95% berfungsi dengan baik.
 1. Master Barang + Jasa dengan pengelompokkan / grup 
