@@ -29,7 +29,7 @@ Saat ini saya mengembangkan beberapa project internal
 - Bootstrap  
 - jQuery / AJAX  
 - jQuery-ui / AJAX  
-- Dsselect, Charts.js, DataTables, SlickGrid, Lobibox
+- DSelect, Charts.js, DataTables, SlickGrid, Lobibox
 
 ### **Tools**
 - VS Code  
