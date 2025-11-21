@@ -35,6 +35,7 @@ Saat ini saya mengembangkan beberapa project internal
 - VS Code  
 - phpMyAdmin / MySQL Workbench  
 - Git & GitHub  
+- CI/CD Github Action
 
 ---
 
@@ -50,6 +51,7 @@ Aplikasi berbasis PHP native untuk membantu bengkel mengelola:
 - Multi-user & role  
 - Mode gelap/terang  
 - Notifikasi & validasi otomatis  
+- Demo: [YouTube](https://www.youtube.com/watch?v=4t1s0OVbENM)
 
 > ⚠ **Catatan:** Source code tidak dipublikasikan karena aplikasi berlisensi.  
 > Dokumentasi dan screenshot dapat dilihat di repo portfolio saya.  
@@ -78,9 +80,8 @@ Jika ingin berkolaborasi atau butuh bantuan development, silakan hubungi saya:
 ## 🎯 Goals 2025
 - Menyelesaikan sistem lisensi plugin WordPress  
 - Membuat portfolio Laravel + Livewire dengan dokumentasi lengkap  
-
 ---
-
+ 
 ### ✨ Terima kasih sudah mengunjungi profil saya!
 
 <!---
