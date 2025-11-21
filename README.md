@@ -55,7 +55,7 @@ Aplikasi berbasis PHP native untuk membantu bengkel mengelola:
 
 > ⚠ **Catatan:** Source code tidak dipublikasikan karena aplikasi berlisensi.  
 > Dokumentasi dan screenshot dapat dilihat di repo portfolio saya.  
-➡ **[Lihat Portfolio](#)** _(isi nanti setelah repo portfolio jadi)_
+➡ Lihat Portfolio https://github.com/Satudua4751/JualinAja-PortFolio
 
 ---
 
